@@ -80,7 +80,7 @@ int main ()
 //soham
 //entc B1
 //23070123084
-//experiment 9
+//experiment 9A
 #include <iostream>
 using namespace std;
 int main () 
@@ -109,7 +109,7 @@ int main ()
 //soham
 //entc B1
 //23070123084
-//experiment 9
+//experiment 9B
 #include <iostream>
 using namespace std;
 int main()
